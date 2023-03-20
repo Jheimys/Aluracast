@@ -16,7 +16,8 @@ james_bassani@yahoo.com
 
 ## O Projeto
 
-
+O Alura Cast é uma página estática e foi construida usando apenas o CSS Grid Layout, além da adptação da resposividade com min e max.
+O seu HTML foi dividido em 5 partes: header, aside, main, div e footer e para cada uma dessas partes foram criados um aquivo css para fazer os estilos.
 
 ## Front-end
 
